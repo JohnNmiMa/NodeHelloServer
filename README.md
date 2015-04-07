@@ -1,7 +1,7 @@
 # NodeHelloServer
 Simple Hello World Node.js Server
 
-This node.js server creates and http server.
+This node.js server creates an http server.
 
 1. requires the "http" node module
 2. calls http.createServer(function(request, respose) { ... }
